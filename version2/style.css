@@ -1,0 +1,188 @@
+
+* {
+    background-color: #4b371c;
+}
+
+
+.cafe {
+    margin: 10% 10%;
+}
+
+/*
+.image1 {
+    display: inline-block;
+    width: 24%;
+}
+
+.image2 {
+    display: inline-block;
+    width: 24%;
+}
+
+.image3 {
+    display: inline-block;
+    width: 24%;
+}
+
+.image4 {
+    display: inline-block;
+    width: 24%;
+}
+
+.T1 {
+    display: inline-block;
+    width: 24%;
+    background-color: purple;
+    color: aqua;
+}
+
+.T2 {
+    display: inline-block;
+    width: 24%;
+    background-color: green;
+    color: aqua;
+}
+
+
+.T3 {
+    display: inline-block;
+    width: 24%;
+    background-color: navy;
+    color: aqua;
+}
+
+.T4 {
+    display: inline-block;
+    width: 24%;
+    background-color: orange;
+    color: aqua;
+}
+
+/*
+.image1 {
+    margin: 100px 10px;
+}
+
+.image2 {
+    margin: 100px 10px;
+}
+
+.image3 {
+    margin: 100px 10px;
+}
+
+.image4 {
+    margin: 100px 10px;
+}
+*/
+
+.image1 {
+    width: 90%;
+    display: block;
+    border-radius: 50px;
+}
+
+.image2 {
+    width: 90%;
+    display: block;
+    border-radius: 50px;
+}
+
+.image3 {
+    width: 90%;
+    display: block;
+    border-radius: 50px;
+}
+
+.image4 {
+    width: 90%;
+    display: block;
+    border-radius: 50px;
+}
+
+.T1 {
+    background-color: purple;
+    color: aqua;
+}
+
+.T2 {
+    background-color: green;
+    color: aqua;
+}
+
+.T3 {
+    background-color: navy;
+    color: aqua;
+}
+
+.T4 {
+    background-color: orange;
+    color: aqua;
+}
+
+.drink1 {
+    display: inline-block;
+    width: 24%;
+}
+
+.drink2 {
+    display: inline-block;
+    width: 24%;
+}
+
+.drink3 {
+    display: inline-block;
+    width: 24%;
+}
+
+.drink4 {
+    display: inline-block;
+    width: 24%;
+}
+
+.drink1 .image1 {
+    margin: 10% 5%;
+}
+
+.drink2 .image2 {
+    margin: 10% 5%;
+}
+
+.drink3 .image3 {
+    margin: 10% 5%;
+}
+
+.drink4 .image4 {
+    margin: 10% 5%;
+}
+
+p {
+    border-radius: 20px;
+    height: 25px;
+    text-align: center;
+    padding: 5px 0px 0px;
+}
+
+.order {
+    margin-left: 60%;
+}
+
+.order .orderNow {
+    color: yellow;
+    font-size: 50px;
+    font-family: Brush Script Std;
+}
+
+input {
+    display: block;
+    margin: 20px 20px;
+    padding-top: 1px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: none;
+    border-radius: 10px;
+    background-color: gainsboro;
+    height: 25px;
+    font-family: Comic Sans MS;
+    outline: none;
+}
